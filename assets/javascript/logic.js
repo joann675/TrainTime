@@ -1,4 +1,3 @@
-
 var myConfig = {
   apiKey: "",
   authDomain: "",
